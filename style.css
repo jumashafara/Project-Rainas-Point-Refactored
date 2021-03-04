@@ -1,0 +1,45 @@
+.navbar {
+  background: maroon;
+}
+
+.company-name {
+  color: gold;
+  font-family: 'forte';
+  font-size: 30px;
+}
+
+a {
+  font-family: 'agency fb';
+  font-size: larger;
+}
+
+.horizontal-1 {
+  background: maroon;
+  height: 4px;
+}
+
+.horizontal-2 {
+  background: gold;
+  height: 1px;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  background-image: url('./projectImages/cloud-bg.jpg');
+}
+
+.c {
+  font-size: larger;
+}
+
+.search {
+  background: gold;
+}
+
+input {
+  outline: none;
+}
+
+l
